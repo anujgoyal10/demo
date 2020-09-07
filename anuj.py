@@ -1,1 +1,3 @@
-print("i am anuj goyal")
+a=int(input())
+b=int(input())
+print(a+b)
